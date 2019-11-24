@@ -2,8 +2,8 @@
 
 ### Configuration
 
-CLOUDFLARE_AUTH_EMAIL = foo
-CLOUDFLARE_AUTH_KEY = bar
+- CLOUDFLARE_AUTH_EMAIL = foo
+- CLOUDFLARE_AUTH_KEY = bar
 
 **Make Commands**
 
